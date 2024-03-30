@@ -13,9 +13,6 @@
 <img width="378" alt="Screenshot 2024-02-22 at 12 13 29 PM" src="https://github.com/rahul-purswani/SoccerTact/assets/70603471/a26f7922-8add-481e-a7d6-e4205dac4b23">
 <img width="600" alt="Screenshot 2024-03-29 at 11 36 10 PM" src="https://github.com/rahul-purswani/SoccerTact/assets/70603471/427db854-90f6-4e02-b2a1-3923ff8985c9">
 
-
-## Demo
-
 ## To run
 1. Clone the repository
 2. Install the dependencies with `npm install`
