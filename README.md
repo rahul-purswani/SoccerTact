@@ -1,6 +1,6 @@
 # SoccerTact
 <h>Group members: Fares Elattar, Grant Keebler, Deepak Kumar, Rahul Purswani, Atif Siffiqui<h><br>
-<br>SoccerTact is a web application that provides a complete analysis on soccer matches, teams, and individual players. It uses event data provided by StatsBomb (an OpenSource Data) to provide analysis on matches, individual teams and players. Event data records all the actions with the ball throughout the game.
+<br>SoccerTact is an advanced web application designed to provide comprehensive soccer analysis. It offers detailed match-based analysis, including match statistics and timelines, as well as team-based analysis such as passing networks and team dominance heat maps. Additionally, it features player-based analysis, showcasing shot maps and individual player dominance heat maps. The application utilizes event data from StatsBomb's open data repository. We built a robust data pipeline to automatically extract data from the StatsBomb GitHub repository and store it in an SQL database.
 
 ## Preview
 <img width="378" alt="Screenshot 2024-03-29 at 11 31 43 PM" src="https://github.com/rahul-purswani/SoccerTact/assets/70603471/b353e42a-3de6-4d6c-9367-506804d8e5e8">
@@ -17,6 +17,12 @@
 1. Clone the repository
 2. Install the dependencies with `npm install`
 3. Run the application `npm start`
+
+<b>What I Learned:
+- Full-Stack Development: I gained experience in building a full-stack web application, integrating both frontend and backend technologies.
+- Data Pipeline Creation: I learned how to design and implement an automated data pipeline, enhancing my skills in data extraction, transformation, and loading (ETL) processes.
+- Data Analysis and Visualization: I developed my ability to analyze and visualize complex datasets, presenting meaningful insights through interactive visualizations.
+- Collaboration and Version Control: Working with GitHub and managing version control was crucial in collaborating with team members and maintaining the project's codebase.
 
 ## Data 
 Link to StatsBomb Open-source data repositary: https://github.com/statsbomb/open-data
