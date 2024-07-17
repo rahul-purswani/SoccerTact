@@ -18,7 +18,7 @@
 2. Install the dependencies with `npm install`
 3. Run the application `npm start`
 
-<b>What I Learned:
+<b>What I Learned:</b>
 - Full-Stack Development: I gained experience in building a full-stack web application, integrating both frontend and backend technologies.
 - Data Pipeline Creation: I learned how to design and implement an automated data pipeline, enhancing my skills in data extraction, transformation, and loading (ETL) processes.
 - Data Analysis and Visualization: I developed my ability to analyze and visualize complex datasets, presenting meaningful insights through interactive visualizations.
