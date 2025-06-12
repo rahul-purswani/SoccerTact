@@ -1,6 +1,6 @@
 # SoccerTact
 <h>Group members: Fares Elattar, Grant Keebler, Deepak Kumar, Rahul Purswani, Atif Siffiqui<h><br>
-<br>SoccerTact is an advanced web application designed to provide comprehensive soccer analysis. It offers detailed match-based analysis, including match statistics and timelines, as well as team-based analysis such as passing networks and team dominance heat maps. Additionally, it features player-based analysis, showcasing shot maps and individual player dominance heat maps. The application utilizes event data from StatsBomb's open data repository. We built a robust data pipeline to automatically extract data from the StatsBomb GitHub repository and store it in an SQL database.
+<br>SoccerTact is an advanced web application designed to provide comprehensive soccer analysis. It offers detailed match-based analysis, including match statistics and timelines, as well as team-based analysis such as passing networks and team dominance heat maps. Additionally, it features player-based analysis, showcasing shot maps and individual player dominance heat maps. The application utilizes event data from StatsBomb's open data repository. We built a robust data pipeline to automatically extract data from the StatsBomb GitHub repository and store it in an MySQL database.
 
 <b>What I Learned:</b>
 - Full-Stack Development: I gained experience in building a full-stack web application, integrating both frontend and backend technologies.
